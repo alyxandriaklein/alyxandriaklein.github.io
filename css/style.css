@@ -1,1 +1,20 @@
+.navbar {
+    color:pink;
+    
+}
 
+.navbar-brand {
+    /* your name */
+}
+
+.nav-link {
+    /* the menu links */
+}
+
+.nav-link:hover {
+    /* the menu links on hover */
+} 
+
+.nav-link.active {
+    /* the current page's link */
+}
